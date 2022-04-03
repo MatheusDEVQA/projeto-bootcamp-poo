@@ -1,6 +1,8 @@
 package projeto.bootcamp.poo;
 
-public class Mentoria {
+import java.time.LocalDate;
+
+public class Mentoria extends Conteudo {
 	private LocalDate data;
 
     @Override
@@ -30,4 +32,4 @@ public class Mentoria {
 }
 	
 	
-}
+

@@ -1,6 +1,6 @@
 package projeto.bootcamp.poo;
 
-public class Curso {
+public class Curso extends Conteudo {
 	 private int cargaHoraria;
 
 	    @Override
